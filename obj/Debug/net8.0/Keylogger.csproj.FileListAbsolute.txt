@@ -1,0 +1,15 @@
+C:\xampp\htdocs\c-sharp\Keylogger\bin\Debug\net8.0\Keylogger.exe
+C:\xampp\htdocs\c-sharp\Keylogger\bin\Debug\net8.0\Keylogger.deps.json
+C:\xampp\htdocs\c-sharp\Keylogger\bin\Debug\net8.0\Keylogger.runtimeconfig.json
+C:\xampp\htdocs\c-sharp\Keylogger\bin\Debug\net8.0\Keylogger.dll
+C:\xampp\htdocs\c-sharp\Keylogger\bin\Debug\net8.0\Keylogger.pdb
+C:\xampp\htdocs\c-sharp\Keylogger\obj\Debug\net8.0\Keylogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\c-sharp\Keylogger\obj\Debug\net8.0\Keylogger.AssemblyInfoInputs.cache
+C:\xampp\htdocs\c-sharp\Keylogger\obj\Debug\net8.0\Keylogger.AssemblyInfo.cs
+C:\xampp\htdocs\c-sharp\Keylogger\obj\Debug\net8.0\Keylogger.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\c-sharp\Keylogger\obj\Debug\net8.0\Keylogger.sourcelink.json
+C:\xampp\htdocs\c-sharp\Keylogger\obj\Debug\net8.0\Keylogger.dll
+C:\xampp\htdocs\c-sharp\Keylogger\obj\Debug\net8.0\refint\Keylogger.dll
+C:\xampp\htdocs\c-sharp\Keylogger\obj\Debug\net8.0\Keylogger.pdb
+C:\xampp\htdocs\c-sharp\Keylogger\obj\Debug\net8.0\Keylogger.genruntimeconfig.cache
+C:\xampp\htdocs\c-sharp\Keylogger\obj\Debug\net8.0\ref\Keylogger.dll
